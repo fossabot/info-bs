@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tassianoalencar/repositorio-padrao/master/images/object-reference-javascript.png" width="350"><br><br>
+  <img src="" width="86" height="96"><br><br>
+  #### iNFO Bootstrap
 </div>
 
 <div align="center">
