@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="" width="86" height="96"><br><br>
-  #### iNFO Bootstrap
+  <img src="images/unnamed.png" width="86" height="96"><br><br>
 </div>
+
+<center color="">
+  <font color="#c0c0c0"><h3>InfoBootstrap</h3></font>
+</center>
 
 <div align="center">
   <img src="images/split.png"><br><br>
