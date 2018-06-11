@@ -1,0 +1,19 @@
+# PHP
+####################
+vendor/
+
+# JAVASCRIPT
+####################
+node_modules/
+npm-debug.log
+
+# LARAVEL
+####################
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
